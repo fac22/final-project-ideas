@@ -3,7 +3,13 @@
 ### Ideas
 
 Have a think about what might be a good project for the final few weeks of FAC22. 
+You can follow this template: 
 
+- Name (Your name)
+- Describe the problem you'd like to solve
+- Who are the stakeholders?
+- Other considerations
+- What is currently being done to solve this problem?
 - What technology might be interesting to explore? 
 - What product might tie together your learnings from the course?
 
